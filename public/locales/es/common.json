@@ -1,0 +1,134 @@
+{
+    "home": {
+        "hero": {
+            "title": "EL PRIMER",
+            "titleSub": "Mezcal Cristalino",
+            "blurb": "EXPERIMENTA EL PRÓXIMO ACTO DEL MEZCAL",
+            "CTA": "MÁS INFORMACIÓN"
+        },
+        "sub": {
+            "title": "PRESENTANDO",
+            "titleSub": "EL PRIMER",
+            "titleSubSub": "Mezcal Cristalino",
+            "sub": "CONTRALUZ ES UN MEZCAL 100% ARTESANAL HECHO A BASE DE AGAVE ESPADÍN. <br/><br/> ES EL RESULTADO DE UN PROCESO DE MADURACIÓN Y FILTRACIÓN EN PEQUEÑOS LOTES,  ALGO COMPLETAMENTE NUEVO EN EL MUNDO DEL MEZCAL.",
+            "CTA": "NUESTRO MEZCAL"
+        },
+        "note": {
+            "title": "NOTA DE MALUMA",
+            "sub": "LEVANTEMOS NUESTRAS COPAS Y BRINDEMOS JUNTOS… <br/> ¡HASTA VER LA LUZ! <br/><br/> BESO DE MEZCAL,",
+            "CTA": "DESCUBRE UNA VIDA A CONTRALUZ"
+        },
+        "taste": {
+            "title": "UN BRINDIS POR",
+            "titleSub": "Las Posibilidades",
+            "CTA": "CÓCTELES EXTRAORDINARIOS"
+        }
+    },
+    "ourMezcal": {
+        "sub": {
+            "title": "NUESTRO DESTILADO",
+            "sub": "NUESTRO MEZCAL CRISTALINO ES REPOSADO APROXIMADAMENTE 6 MESES EN BARRICAS DE ROBLE AMERICANO Y POSTERIORMENTE FILTRADO EN CARBÓN ACTIVADO. <br/><br/> EL RESULTADO ES UNA MEZCLA ELEGANTE DE AROMAS Y SABORES REFINADOS SIN COMPROMETER LA PERSONALIDAD CARACTERÍSTICA DEL MEZCAL.",
+            "titleTwo": "SUAVE Y ELEGANTE CON LA COMPLEJIDAD Y CARÁCTER DEL",
+            "taste": {
+                "title": "NUESTRO SABOR Y AROMA",
+                "sub": "NOTAS PRIMARIAS A AGAVE VERDE, CÍTRICAS (CÁSCARA DE NARANJA Y LIMÓN) FLORALES Y UN LIGERO HUMO SE COMPLETAN CON SUTILES NOTAS A VAINILLA, CEDRO, MIEL Y FRUTOS SECOS. EL FINAL ES DULCE Y DURADERO, EQUILIBRADO POR EL SABOR DEL AGAVE COCIDO, EL CLAVO Y EL CACAO.",
+                "CTA": "NUESTROS CÓCTELES"
+            },
+            "proccess": "NUESTRO PROCESO",
+            "one": {
+                "title": "1 <br/> - <br/>CULTIVO Y COCCIÓN",
+                "blurb": "NUESTROS AGAVES TIPO ESPADÍN, CULTIVADOS  POR RECONOCIDOS PRODUCTORES LOCALES DE LAS ÁREAS DE TLACOLULA Y VALLES CENTRALES EN OAXACA, SE COCINAN EN HORNOS CÓNICOS  DE PIEDRA ANTES DE SER MOLIDOS PARA EXTRAER SUS AZÚCARES."
+            },
+            "two": {
+                "title": "2 <br/> - <br/>FERMENTACIÓN Y DESTILACIÓN",
+                "blurb": "DEPENDIENDO DE LA ÉPOCA DEL AÑO, FERMENTAMOS CUIDADOSAMENTE EL LÍQUIDO HASTA POR DIEZ DÍAS ANTES DE DESTILARLO EN ALAMBIQUES DE COBRE."
+            },
+            "three": {
+                "title": "3 <br/> - <br/> MADURACIÓN",
+                "blurb": "NUESTRO MEZCAL SE MADURA DURANTE 6 MESES EN BARRICAS DE ROBLE AMERICANO LO QUE  LE APORTA NOTAS SUTILES A VAINILLA, CEDRO, MIEL Y FRUTAS SECAS, MISMAS QUE SE EQUILIBRAN CON LIGERAS NOTAS A HUMO PROVENIENTES DEL AGAVE COCIDO."
+            },
+            "four": {
+                "title": "4 <br/> - <br/> FILTRACIÓN",
+                "blurb": "NUESTRO MEZCAL REPOSADO SE FILTRA A TRAVÉS DE CARBÓN ACTIVADO PARA EXTRAER EL COLOR Y RESALTAR ALGUNOS DE LOS SABORES - EL RESULTADO ES UNA ELEGANTE COMBINACIÓN DE AROMAS Y SABORES ÚNICOS, MANTENIENDO LA PERSONALIDAD CARACTERÍSTICA DEL MEZCAL."
+            }
+        }
+    },
+    "cocktails": {
+        "hero": {
+            "title": "CÓCTELES <br/> INSIGNIA",
+            "subTitle": "de Contraluz",
+            "sub": "UNA MANERA DIFERENTE DE TOMAR"
+        },
+        "recepies": {
+            "neat": {
+                "title": "CONTRALUZ DERECHO",
+                "sub": "Suave y Duradero",
+                "ingredients": "2 OZ DE MEZCAL CONTRALUZ CRISTALINO",
+                "img": "/images/neat.jpg",
+                "preparation": "PREPARACIÓN: SERVIR BIEN FRÍO O A TEMPERATURA AMBIENTE. DECORAR CON UNA RODAJA DE FRUTA TROPICAL COMO LA CARAMBOLA."
+            },
+            "spritz": {
+                "title": "CONTRALUZ SPRITZ",
+                "sub": "Elegante y Sutil",
+                "ingredients": "1 OZ DE  MEZCAL CONTRALUZ  CRISTALINO <br/>1 OZ DE ST GERMAIN <br/>4 OZ DE CHAMPAGNE",
+                "img": "/images/spritzES.jpg",
+                "preparation": "EN UN VASO FLAUTA, MEZCLAR CONTRALUZ,  LICOR DE SAÚCO (ST GERMAIN).. TOP CON CHAMPAGNE BRUT Y DECORAR CON UN TOQUE DE LIMÓN"
+            },
+            "backlight": {
+                "title": "IN THE BACKLIGHT",
+                "sub": "Moderno y Aromático",
+                "ingredients": "1 OZ DE MEZCAL CONTRALUZ CRISTALINO <br/>1 OZ LILLET BLANC<br/>1 OZ COINTREAU",
+                "img": "/images/backlight.jpg",
+                "preparation": "AÑADIR A UN VASO MEZCLADOR CON CONTRALUZ, APERITIVO FRANCES (LILLET BLANC), COINTREAU Y  BITTERS DE TORONJA, LUEGO REMOVER HASTA MEZCLAR, VERTER EN UN VASO OLD FASHION FRESCO. DECORAR CON UNA RODAJA DE LIMÓN."
+            },
+            "martini": {
+                "title": "MARTINI ILUMINADO",
+                "sub": "Floral Con Notas Saladas",
+                "ingredients": "2 OZ DE MEZCAL CONTRALUZ CRISTALINO<br/>1 OZ DE VERMOUTH SECO<br/>1 CUCHARADA DE BAR DOLIN BLANC VERMOUTH",
+                "img": "/images/martiniES.jpg",
+                "preparation": "EN UN VASO MEZCLADOR, AGREGAR CONTRALUZ, VERMOUTH SECO, UNA CUCHARADA DE BAR DE DOLIN BLANC Y HIELO. MEZCLAR Y COLAR EN UNA COPA MARTINERA FRÍA. EXPRIMIR LOS ACEITES DE LIMÓN Y DECORAR CON UNA CÁSCARA DE LIMÓN."
+            },
+            "tonika": {
+                "title": "mezcal con tonika",
+                "sub": "Rico y Sabroso",
+                "ingredients": "2 OZ DE MEZCAL CONTRALUZ CRISTALINO<br/>1 OZ JUGO DE TORONJA<br/>4 OZ AGUA TÓNICA",
+                "img": "/images/tonika.jpg",
+                "preparation": "EN UN VASO COLLINS, MEZCLAR CONTRALUZ Y JUGO DE TORONJA, COMPLETAR CON AGUA TÓNICA, DECORAR CON UNA RODAJA DE TORONJA O NARANJA DESHIDRATADA."
+            }
+        }
+    },
+    "backlight": {
+        "hero": {
+            "title": "A CONTRALUZ"
+        },
+        "sub": {
+            "title": "CELEBRA LA BELLEZA",
+            "sub": "a Contraluz"
+        },
+        "live": {
+            "sub": "\"VIVIR UNA VIDA A CONTRALUZ, ES ABRAZAR LOS MOMENTOS ESPONTÁNEOS,GENUINOS E INESPERADOS EN NUESTRAS VIDAS. <br /><br /> ESTOS SON LOS MOMENTOS LEJOS DEL FOCO DE ATENCIÓN, ESOS MOMENTOS EN DONDE SE ENCUENTRAN LAS POSIBILIDADES EXTRAORDINARIAS.\" <br/> <br/> - MALUMA"
+        },
+        "raw": {
+            "title": "DESCUBRE LAS POSIBILIDADES EXTRAORDINARIAS EN UNA",
+            "sub": "Vida a Contraluz"
+        },
+        "moments": {
+            "sub": "NUEVO EN EL MUNDO DEL MEZCAL, NUESTRO CRISTALINO ENCARNA UN ESPÍRITU EXTRAORDINARIO. <br/><br/> UN ESPÍRITU QUE CELEBRA LA RICA BELLEZA DE LOS MOMENTOS QUE SE ENCUENTRAN A CONTRALUZ."
+        },
+        "raise": {
+            "sub": "SI HAS EXPERIMENTADO ESTOS MOMENTOS ENTONCES <br/> LEVANTA TU COPA Y BRINDA. “HASTA VER LA LUZ”"
+        },
+        "toast": {
+            "sub": "BRINDEMOS POR LOS AMIGOS <br/> DEL ALMA Y LA FAMILIA QUERIDA"
+        },
+        "raiseDos": {
+            "sub": "LEVANTEMOS NUESTRAS COPAS Y BRINDEMOS POR UNA VIDA A CONTRALUZ.<br />¡HASTA VER LA LUZ!"
+        }
+    },
+    "buy": {
+        "title": "CONTRALUZ",
+        "titleSub": "Mezcal Cristalino",
+        "sub": "EL PRIMER MEZCAL CRISTALINO, REDEFINE EL ASPECTO, LA SENSACIÓN Y EL SABOR DEL MEZCAL ULTRA PREMIUM. <br/><br/> PRODUCTO DE UN PROCESO DE MADURACIÓN Y FILTRACIÓN DE LOTES PEQUEÑOS NUEVO EN EL MUNDO DEL MEZCAL, CONTRALUZ CRISTALINO MEZCAL OFRECE LA EXPERIENCIA DE SABOR SUAVE Y ELEGANTE DE CRISTALINO CON LA COMPLEJIDAD Y PROFUNDIDAD DEL MEZCAL. ES UNA ELEGANTE MEZCLA DE AROMAS Y SABORES QUE SON DISTINTOS PERO QUE CAPTURAN EL CARÁCTER CARACTERÍSTICO DEL MEZCAL."
+    },
+    "terms": "<p>Todo uso que dé al sitio web de contraluz en www.mezcalcontraluz.com queda condicionado a su aceptación de estos Términos y Condiciones, incluida nuestra Declaración de Privacidad (más adelante). Los Términos y Condiciones siguientes aplican con respecto a los usuarios, visitantes y todas las personas que entren a este sitio web. Este sitio web es operado por Bodega y Destilería de , S.A.P.I. de C.V., sus subsidiarias, filiales y asociados. registrada en México con el número de identificación fiscal BDC190423424 con dirección en Paseo de los Tamarindos 90, Torre 2 Piso 5, Bosques de las Lomas, Ciudad de México, C.P. 05120. Por favor lea estos términos con cuidado antes de usar el sitio web. Al usar el sitio web usted expresa su aceptación con respecto a estos términos. Si no acepta estos términos, no use el sitio web. PARA ENTRAR EN EL SITIO WEB USTED DEBE TENER LA MAYORÍA DE EDAD DEL PAÍS EN EL CUAL VISUALIZA ESTE SITIO. DE NO SER ASÍ, NO ENTRE EN ESTE SITIO. Todas las referencias a «nosotros», «nuestra empresa» o «la empresa» dentro de esta política y dentro del aviso de inscripción serán consideradas referencias a Bodega y Destilería de , S.A.P.I. de C.V., sus subsidiarias, filiales y asociados.</p><p>INTRODUCCIÓN</p><p>1. Puede acceder a la mayoría de las áreas de este sitio web sin necesidad de registrar sus datos en nuestro sistema. El acceso a ciertas áreas del sitio web queda condicionado a que usted se registre.</p><br><p>2. La empresa puede revisar estos Términos y Condiciones en cualquier momento mediante la actualización de esta publicación.</p><p>3. Usted tiene la responsabilidad de revisar de manera periódica esta página para estar al tanto de cualquier actualización que se efectúe a estos Términos y Condiciones, que entraría en vigor al momento de publicarse. El uso continuado de su parte del sitio se considerará como una aceptación con respecto a estos Términos y Condiciones, incluida nuestra Política de Privacidad.</p><br><br><p>PROPIEDAD INTELECTUAL</p><p>4. Salvo en casos en que se especificare de otra forma, los derechos de autor y otros derechos de propiedad intelectual vinculados a todo el material contenido en el sitio web (incluidos, a mero título enunciativo, marcas registradas, diseños, logotipos, texto, imágenes, material de audio y vídeo y diseños de botella) son propiedad del Grupo Casa Lumbre, Bodega y Destilería de , S.A.P.I. de C.V., sus subsidiarias, filiales y asociados o la empresa que posee la licencia de tales rubros e ítems.</p><br><p>5. De manera enunciativa, sin carácter restrictivo, todas las marcas registradas y todos los logotipos, etiquetas, diseños de botellas relacionados y demás propiedad intelectual vinculada con la marca Contraluz , son propiedad del grupo casa lumbre, bodega y destilería de , s.a.p.i. de c.v.</p><br><p>6. Sin perjuicio de la cláusula 4 de estos Términos y Condiciones, cualquier otro nombre de producto e imágenes utilizadas en este sitio web se incluyen en el mismo para fines de identificación únicamente. Todas las marcas comerciales y marcas registradas incluidas en los citados nombres e imágenes de productos son propiedad de sus respectivos propietarios.</p><br><p>7. Se prohíbe la copia, reproducción, republicación, carga, publicación, transmisión, distribución, explotación comercial o cualquier tipo de adaptación del material sin el previo consentimiento escrito de parte de la empresa.</p><br><p>8. Quedan reservados todos los derechos que no hubieren sido expresamente otorgados en estos Términos y Condiciones.</p><br><p>ACCESO AL SERVICIO Y USO ACEPTABLE</p><p>9. Bajo ninguna circunstancia se podrá responsabilizar a la empresa en los casos en que el sitio web se encuentre no disponible por cualquier plazo de tiempo o periodo. Se podrá suspender de manera temporal o permanente y sin previo aviso el acceso al sitio web.</p><br><p>10. Sin perjuicio de la cláusula 9, la empresa se reserva el derecho de suspender, terminar o restringir el acceso al sitio web si ocurre una infracción hacia estos Términos y Condiciones.</p><br><p>11. Usted tiene la obligación de conservar de manera confidencial cualquier contraseña y nombre de usuario que se le haya otorgado y la empresa se reserva el derecho de suspender o dar por terminado el nombre de usuario y contraseña si la empresa posee la sospecha de algún incumplimiento de parte suya con respecto de estos Términos y Condiciones.</p><br><p>12. Usted sólo puede hacer uso de este sitio web para fines lícitos. Usted no debe hacer uso de este sitio web si tal uso: infringiere de cualquier manera cualquier ley o reglamento local, nacional o internacional aplicable; si tal uso es de cualquier forma de carácter ilícito o fraudulento o si tiene algún efecto ilícito o fraudulento; para transmitir, o procurar el envío de cualquier tipo de publicidad no solicitada o no autorizada o material promocional o cualquier tipo de spam; si tal uso tiene el propósito de enviar o cargar cualquier material que contenga virus o código computacional similar diseñado para afectar adversamente la operación de cualquier software o hardware de computadora; o si tal uso fuere para emprender cualquier otro tipo de actividad que contravenga la Legislación aplicable.</p><br><p>ENVÍOS</p><p>13. Con excepción de la información de identificación personal, la cual está cubierta bajo nuestra Política de Privacidad, si se le invitare a enviar cualquier contribución a este sitio web (incluidos, a mero título enunciativo, cualquier texto, gráficos, vídeo o audio), usted otorga en tal caso a la empresa el derecho y licencia perpetuos, de carácter internacional, libres de regalías, no exclusivos, sublicenciables para usar, reproducir, modificar, adaptar, publicar, traducir, crear obras derivadas de los mismos, distribuir, ejecutar, reproducir, comunicar al público y ejercer todos los derechos de autor y derechos publicitarios con respecto de cualquier obra como la antes mencionada y/o para incorporarla en otras obras en cualquier medio conocido en la actualidad o que se desarrolle en el futuro por el plazo completo de cualesquiera derechos que pudieran existir en el citado contenido, conforme con las restricciones en materia de privacidad establecidas en la Política de Privacidad de la Empresa. Si no desea otorgar tales derechos a la empresa, usted no debe enviar su contribución a este sitio web.</p><br><p>14. Al enviar su contenido a este sitio web, usted también: garantiza que dicha contribución es su obra propia original y que usted posee el derecho para ponerlo a disposición de la empresa para todos los propósitos especificados con anterioridad; y acepta asimismo renunciar a cualquier derecho moral en su contribución para efectos de su envío al sitio web y su publicación del mismo y los demás propósitos especificados con anterioridad.</p><br><p>15. Usted acepta no enviar ninguna contribución de la cual usted no tenga la autoría original o que de otra forma infrinja los derechos de cualquier tercero o que limite o inhiba el uso y goce de este sitio web por parte de cualquier tercero. Su uso y sus envíos no deben ser de carácter ilícito, ni deben tampoco tener carácter acosador con respecto de ninguna persona ni deben tampoco generar perjuicios e inconvenientes a la misma, tampoco deberán tener contenido obsceno u ofensivo o que perturben el flujo normal de diálogo dentro de este sitio web.</p><br><p>16. Usted no debe (ni debe alentar a ningún tercero) a hacer cualquier declaración o ingresar cualquier contribución que incluya: lenguaje soez y/o mensajes de carácter inaceptable, indecente, difamatorio, amenazante, violento, discriminatorio (con base en la raza, religión, sexo, orientación sexual, nación de origen, edad o discapacidad física o mental); discusiones que pudieran alentar, promover o proporcionar información acerca de actividades criminales o ilícitas (incluidos, a mero título enunciativo, pornografía, explosivos, armas, violencia, drogas, virus informáticos, irrupción en equipo informático (hacking) e infracción a derechos de autor); publicar direcciones de otros sitios web o contenido que infrinjan los derechos de propiedad intelectual de cualquier tercero; intercambiar números de teléfono o direcciones de residencias, el acoso a otros usuarios de este sitio (ya sea de manera privada o en un foro público), o hacerse pasar por nuestro personal, celebridades o cualquier otra personalidad; acciones que pudieran perturbar u obstaculizar el funcionamiento, estabilidad o seguridad de este sitio (incluyendo, entre otros, la introducción de virus, bugs, gusanos, troyanos o cualquier otra forma de contaminantes); publicidad, material promocional, intentos de ventas no solicitadas, o cualquier otro uso de este sitio web para fines comerciales no autorizados; y cualquier comentario de carácter derogatorio acerca de la empresa o el sitio.</p><br><p>17. Usted acepta indemnizar a la empresa si se generasen tarifas legales, perjuicios u otros gastos en los cuales pudiera incurrir la empresa como resultado de un incumplimiento o una sospecha de incumplimiento de parte de usted en contra de los términos o los derechos de cualquier tercero, o cualquier infracción de la ley por su parte.</p><br><p>18. Si bien pedimos a todos los usuarios de este sitio web que se adhieran a estos términos, usted reconoce que otros usuarios podrían enviar material que usted podría considerar ofensivo o censurable. La empresa no asume ninguna responsabilidad u obligación por el contenido individual de los usuarios enviado el sitio web y tales envíos no representan los puntos de vista de la empresa.</p><br><p>19. Al contribuir en nuestro sitio web usted acepta otorgarnos una licencia libre de regalías, no exclusiva, para publicar y de cualquier otra forma usar el material en la manera en que nosotros convengamos y en cualquier medio a nivel global.</p><br><p>ENLACES A OTROS SITIOS WEB</p><p>20. Se incluyen enlaces a sitios web de terceros en nuestro sitio web exclusivamente para su conveniencia. Si usted hace uso de estos enlaces, usted estará abandonando el sitio web. La empresa no ha revisado la totalidad de estos sitios web de terceros y no posee el control de estos sitios, como tampoco es responsable del contenido o disponibilidad de los mismos. Por tal razón, la empresa no respalda ni emite ningún tipo de declaración con respecto a ellos como tampoco de ningún material contenido en los mismos o cualquier resultado que pudiere obtenerse usando tales sitios. Si decide acceder a cualquiera de los sitios web de terceros desde los enlaces contenidos en nuestro sitio web, será exclusivamente bajo su propio riesgo.</p><br><p>RESTRICCIÓN DE RESPONSABILIDAD</p><p>21. Si bien la empresa se esfuerza en asegurar que la información contenida en el sitio web sea correcta, la empresa no emite ninguna garantía con respecto a la precisión e integridad del material contenido dentro del sitio web. La empresa puede efectuar cambios en el contenido del sitio web, o los productos y precios descritos en el mismo, en cualquier momento y sin previo aviso. El material contenido dentro del sitio web podría ya no estar vigente y la empresa no asume ningún compromiso de actualizar el citado material. En toda la amplitud permitida por la ley, la empresa le brinda acceso al sitio web con fundamento en que la empresa excluye toda declaración, garantía, condición y otros términos (incluidas, a mero título enunciativo, las comisiones aplicadas por la ley).</p><br><p>22. Conforme a las salvedades y estipulaciones contenidas en la cláusula 23, la empresa y cualquier otra parte (ya esté involucrada o no en la creación, producción, mantenimiento o entrega del sitio web), y cualquiera de los grupos de empresas de la compañía y sus funcionarios, directores, empleados, accionistas o agentes o cualquiera de los anteriores, quedan excluidos de toda obligación y responsabilidad por cualquier monto o en especie por conceptos de pérdidas o perjuicios que pudieren acaecer sobre usted o en algún tercero (incluidos, a mero título enunciativo, cualquier pérdida o perjuicio directo, indirecto, punitivo o consecuente, o cualquier pérdida de ingreso, ganancias, buena fe, datos, contratos, uso de dineros, o pérdidas o perjuicios que surgen a raíz o de cualquier forma en conexión con la interrupción de los negocios, ya sea por ilícito civil (incluidos, a mero título enunciativo, por negligencia, por contrato o de otra forma), de cualquier manera en conexión con este sitio web o en conexión con el uso, incapacidad para usar el sitio web, cualesquiera sitios web enlazados al sitio web de la empresa o material en los anteriores sitios web, incluidos, a mero título enunciativo, la pérdida o perjuicios ocasionados por virus informáticos que pudieren infectar su equipo informático, software, datos o cualquier otra propiedad debido a que usted accesó, usó o visualizó el sitio web o a que descargó cualquier material desde el sitio web o cualquiera de los sitios enlazados desde el sitio web de la empresa.</p><br><p>23. Ningún apartado contenido dentro de estos Términos y Condiciones limitará la responsabilidad de la empresa por razón de: fallecimiento o lesiones personales ocasionadas por la negligencia de la empresa, sus directivos, agentes, funcionarios o representantes; fraude o declaraciones fraudulentas; o cualquier otra responsabilidad que no pueda excluirse o limitarse por la ley.</p><br><p>LEY GOBERNANTE Y JURISDICCIÓN</p><p>24. Estos Términos y Condiciones serán regidos e interpretados en conformidad con las leyes de México. Toda disputa que surja con relación a estos Términos y Condiciones quedará sujeta a la jurisdicción exclusiva de los tribunales de México en específico a los de la Ciudad de México; empero, la empresa se reserva el derecho de llevar los procesos judiciales en contra suya por el incumplimiento de estos Términos y Condiciones en su país de residencia o en cualquier otro país que corresponda.</p>"
+}

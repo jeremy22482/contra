@@ -1,0 +1,134 @@
+{
+    "home": {
+        "hero": {
+            "title": "THE FIRST",
+            "titleSub": "Cristalino Mezcal",
+            "blurb": "EXPERIENCE MEZCAL'S NEXT ACT",
+            "CTA": "LEARN MORE"
+        },
+        "sub": {
+            "title": "INTRODUCING",
+            "titleSub": "THE FIRST",
+            "titleSubSub": "Cristalino Mezcal",
+            "sub": "CONTRALUZ IS A 100% ARTISANAL MEZCAL MADE FROM ESPADIN AGAVE. <br/><br/> IT IS THE PRODUCT OF A MATURATION  AND SMALL-BATCH FILTRATION PROCESS <br/> NEW TO THE WORLD OF MEZCAL.",
+            "CTA": "OUR MEZCAL"
+        },
+        "note": {
+            "title": "A NOTE FROM MALUMA",
+            "sub": "RAISE A GLASS AND TOAST WITH ME... <br/> HASTA VER LA LUZ! <br/><br/> MEZCAL KISS,",
+            "CTA": "EXPERIENCE A LIFE IN CONTRALUZ"
+        },
+        "taste": {
+            "title": "A TOAST TO",
+            "titleSub": "New Possibilities",
+            "CTA": "OUR EXTRAORDINARY COCKTAILS"
+        }
+    },
+    "ourMezcal": {
+        "sub": {
+            "title": "OUR SPIRIT",
+            "sub": "OUR CRISTALINO MEZCAL IS MATURED FOR APPROXIMATELY 6 MONTHS IN CHARRED AMERICAN OAK BARRELS AND FILTERED THROUGH ACTIVATED CHARCOAL. <br/><br/> THE RESULT IS A CRYSTAL-CLEAR LIQUID WITH AN ELEGANT BLEND OF AROMAS AND FLAVORS THAT ARE REFINED YET FULL OF MEZCAL'S SIGNATURE CHARACTER.",
+            "titleTwo": "Smooth and Elegant with the Complexity and Depth of",
+            "taste": {
+                "title": "TASTE & AROMA",
+                "sub": "PRIMARY NOTES OF GREEN AGAVE, CITRUS (ORANGE AND LEMON PEEL) FLORAL (BLOSSOM) AND A LIGHT SMOKE ARE COMPLEMENTED BY SUBTLE NOTES OF VANILLA, CEDAR, HONEY AND DRIED FRUIT. THE FINISH IS SWEET AND LONG LASTING, BALANCED BY THE TASTE OF COOKED AGAVE, CLOVE AND CACAO.",
+                "CTA": "OUR COCKTAILS"
+            },
+            "proccess": "OUR PROCESS",
+            "one": {
+                "title": "1 <br/> - <br/> HARVEST & COOKING",
+                "blurb": "OUR CULTIVATED & FULLY MATURE ESPADIN AGAVES - HARVESTED BY REPUTABLE LOCAL PRODUCERS FROM THE TLACOLULA AND VALLES CENTRALES AREAS IN OAXACA - ARE COOKED IN UNDERGROUND STONE OVENS BEFORE THEY ARE GRINDED TO EXTRACT ITS SUGARS."
+            },
+            "two": {
+                "title": "2 <br/> - <br/> FERMENTATION & DISTILLATION",
+                "blurb": "DEPENDING ON THE TIME OF YEAR, WE FERMENT THE LIQUID FOR UP TO TEN DAYS BEFORE DISTILLING IT IN COPPER POT STILLS."
+            },
+            "three": {
+                "title": "3 <br/> - <br/> MATURATION",
+                "blurb": "OUR MEZCAL IS MATURED FOR APPROXIMATELY 6 MONTHS IN CHARRED AMERICAN OAK BARRELS, ALLOWING US TO STRIKE A BALANCE BETWEEN THE SUBTLE NOTES OF VANILLA, CEDAR, HONEY AND DRIED FRUIT FROM THE MATURATION, WITH THE LIGHT SMOKE DELIVERED FROM THE COOKED AGAVE."
+            },
+            "four": {
+                "title": "4 <br/> - <br/> FILTRATION",
+                "blurb": "OUR MATURED MEZCAL GETS FILTERED THROUGH ACTIVATED CHARCOAL TO EXTRACT THE COLOR AND ENHANCE FLAVORS - RESULTING IN AN ELEGANT BLEND OF AROMAS AND TASTES THAT ARE BOTH UNIQUELY DISTINCT YET CAPTURE MEZCAL'S SIGNATURE CHARACTER."
+            }
+        }
+    },
+    "cocktails": {
+        "hero": {
+            "title": "CONTRALUZ",
+            "subTitle": "Signature Serves",
+            "sub": "AN ELEVATED DRINKING EXPERIENCE"
+        },
+        "recepies": {
+            "neat": {
+                "title": "STARLIGHT NEAT",
+                "sub": "Smooth & Long-lasting",
+                "img": "/images/neat.jpg",
+                "ingredients": "2 OZ CONTRALUZ CRISTALINO MEZCAL",
+                "preparation": "SERVED AT ROOM TEMPERATURE OR CHILLED. GARNISHED WITH A TROPICAL FRUIT SLICE SUCH AS STAR FRUIT."
+            },
+            "spritz": {
+                "title": "CONTRALUZ SPRITZ",
+                "sub": "Elegant & Subtle",
+                "img": "/images/spritz.jpg",
+                "ingredients": "1 OZ CONTRALUZ CRISTALINO MEZCAL<br/>1 OZ BERGAMOT LIQUEUR<br/>4 OZ VEUVE CLICQUOT BRUT CHAMPAGNE",
+                "preparation": " IN A FLUTE, MIX CONTRALUZ AND BERGAMOT LIQUEUR.  TOP IT OFF WITH CHAMPAGNE, GARNISH WITH A LEMON TWIST."
+            },
+            "backlight": {
+                "title": "IN THE BACKLIGHT",
+                "sub": "Modern & Aromatic",
+                "img": "/images/backlight.jpg",
+                "ingredients": "1 OZ CONTRALUZ CRISTALINO MEZCAL<br/>1 OZ FRENCH APERITIF<br/>1 OZ COINTREAU",
+                "preparation": "ADD TO A MIXING GLASS CONTRALUZ, FRENCH APERITIF, COINTREAU AND GRAPEFRUIT BITTERS, THEN STIR UNTIL MIXED. POUR INTO A FRESH ROCKS GLASS AND GARNISH WITH A LEMON WHEEL."
+            },
+            "martini": {
+                "title": "ILLUMINATED MARTINI",
+                "sub": "Savory & Floral",
+                "img": "/images/martini.jpg",
+                "ingredients": "2 OZ CONTRALUZ CRISTALINO MEZCAL<br/>1 OZ DRY VERMOUTH<br/>1 BAR SPOON DOLIN BLANC VERMOUTH",
+                "preparation": "IN A MIXING GLASS, ADD CONTRALUZ, DRY VERMOUTH, A BAR SPOON OF DOLIN BLANC AND ICE. MIX AND STRAIN INTO A CHILLED MARTINI GLASS. EXPRESS LEMON OILS AND GARNISH WITH A LEMON PEEL."
+            },
+            "tonika": {
+                "title": "MEZCAL CON TONIKA",
+                "sub": "Rich & Flavorful",
+                "img": "/images/tonika.jpg",
+                "ingredients": "2 OZ CONTRALUZ CRISTALINO MEZCAL<br/>1 OZ GRAPEFRUIT JUICE<br/>4 OZ TONIC WATER",
+                "preparation": "IN A COLLINS GLASS, MIX CONTRALUZ AND GRAPEFRUIT JUICE, TOP IT OFF WITH TONIC WATER, GARNISH WITH A GRAPEFRUIT OR DEHYDRATED ORANGE SLICE."
+            }
+        }
+    },
+    "backlight": {
+        "hero": {
+            "title": "the backlight"
+        },
+        "sub": {
+            "title": "Celebrate The Beauty",
+            "sub": "in the Backlight"
+        },
+        "live": {
+            "sub": "\"TO LIVE A LIFE IN CONTRALUZ IS TO EMBRACE THE SPONTANEOUS, GENUINE, AND UNEXPECTED MOMENTS IN OUR LIVES. <br/><br/> IT IS IN THOSE MOMENTS AWAY FROM THE SPOTLIGHT WHERE EXTRAORDINARY POSSIBILITIES LIE.\" <br/><br/> - MALUMA"
+        },
+        "raw": {
+            "title": "DISCOVER THE EXTRAORDINARY <br/> POSSIBILITIES OF A",
+            "sub": "Life in Contraluz"
+        },
+        "moments": {
+            "sub": "NEW TO THE WORLD OF MEZCAL, OUR CRISTALINO EMBODIES AN EXTRAORDINARY SPIRIT. <br/><br/> A SPIRIT THAT CELEBRATES THE RICH BEAUTY OF MOMENTS FOUND IN THE BACKLIGHT."
+        },
+        "raise": {
+            "sub": "NEW TO THE WORLD OF MEZCAL, OUR CRISTALINO EMBODIES AN EXTRAORDINARY SPIRIT. A SPIRIT THAT CELEBRATES THE RICH BEAUTY OF MOMENTS FOUND IN THE BACKLIGHT."
+        },
+        "toast": {
+            "sub": "TOAST TO THE FRIENDS WE MAKE AND FAMILY WE CREATE"
+        },
+        "raiseDos": {
+            "sub": "SO RAISE A GLASS AND TOAST TO A LIFE IN CONTRALUZ - HASTA VER LA LUZ <br /> (UNTIL YOU SEE THE LIGHT)!"
+        }
+    },
+    "buy": {
+        "title": "CONTRALUZ",
+        "titleSub": "Cristalino Mezcal",
+        "sub": "THE FIRST CRISTALINO MEZCAL REDEFINES WHAT ULTRA-PREMIUM MEZCAL LOOKS, FEELS, AND TASTES LIKE. <br/><br/> A PRODUCT OF A MATURATION AND SMALL-BATCH FILTRATION PROCESS NEW TO THE WORLD OF MEZCAL, CONTRALUZ CRISTALINO MEZCAL DELIVERS THE SMOOTH AND ELEGANT TASTING EXPERIENCE OF CRISTALINO WITH THE COMPLEXITY AND DEPTH OF MEZCAL. IT IS AN ELEGANT BLEND OF AROMAS AND TASTES THAT ARE DISTINCT YET CAPTURE MEZCAL'S SIGNATURE CHARACTER. <br/><br/> 40% alc/vol."
+    },
+    "terms": "<p>Last Revised: August 1, 2022</p><br><p>Welcome to www.contraluz.com. This site is provided as a service to our visitors and may be used for informational purposes only. Because the Terms and Conditions contain legal obligations, please read them carefully.</p><br><p>1. YOUR AGREEMENT<br>By using this Site, you agree to be bound by, and to comply with, these Terms and Conditions. If you do not agree to these Terms and Conditions, please do not use this site.</p><br><p>PLEASE NOTE: We reserve the right, at our sole discretion, to change, modify or otherwise alter these Terms and Conditions at any time. Unless otherwise indicated, amendments will become effective immediately. Please review these Terms and Conditions periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised Terms and Conditions and the reasonableness of these standards for notice of changes. For your information, this page was last updated as of the date at the top of these terms and conditions.<br><br>2. PRIVACY<br>Please review our Privacy Policy, which also governs your visit to this Site, to understand our practices.</p><br><p>3. LINKED SITES<br>This Site may contain links to other independent third-party Web sites (&quot;Linked Sites&rdquo;). These Linked Sites are provided solely as a convenience to our visitors. Such Linked Sites are not under our control, and we are not responsible for and does not endorse the content of such Linked Sites, including any information or materials contained on such Linked Sites. You will need to make your own independent judgment regarding your interaction with these Linked Sites.</p><br><p>4. FORWARD LOOKING STATEMENTS<br>All materials reproduced on this site speak as of the original date of publication or filing. The fact that a document is available on this site does not mean that the information contained in such document has not been modified or superseded by events or by a subsequent document or filing. We have no duty or policy to update any information or statements contained on this site and, therefore, such information or statements should not be relied upon as being current as of the date you access this site.</p><br><p>5. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY<br>A. THIS SITE MAY CONTAIN INACCURACIES AND TYPOGRAPHICAL ERRORS. WE DOES NOT WARRANT THE ACCURACY OR COMPLETENESS OF THE MATERIALS OR THE RELIABILITY OF ANY ADVICE, OPINION, STATEMENT OR OTHER INFORMATION DISPLAYED OR DISTRIBUTED THROUGH THE SITE. YOU EXPRESSLY UNDERSTAND AND AGREE THAT: (i) YOUR USE OF THE SITE, INCLUDING ANY RELIANCE ON ANY SUCH OPINION, ADVICE, STATEMENT, MEMORANDUM, OR INFORMATION CONTAINED HEREIN, SHALL BE AT YOUR SOLE RISK; (ii) THE SITE IS PROVIDED ON AN &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; BASIS; (iii) EXCEPT AS EXPRESSLY PROVIDED HEREIN WE DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, TITLE AND NON-INFRINGEMENT; (iv) WE MAKE NO WARRANTY WITH RESPECT TO THE RESULTS THAT MAY BE OBTAINED FROM THIS SITE, THE PRODUCTS OR SERVICES ADVERTISED OR OFFERED OR MERCHANTS INVOLVED; (v) ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SITE IS DONE AT YOUR OWN DISCRETION AND RISK; and (vi) YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR FOR ANY LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.</p><br><p>B. YOU UNDERSTAND AND AGREE THAT UNDER NO CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, SHALL WE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF, OR THE INABILITY TO USE, ANY OF OUR SITES OR MATERIALS OR FUNCTIONS ON ANY SUCH SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.</p><br><p>6. EXCLUSIONS AND LIMITATIONS<br>SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, OUR LIABILITY IN SUCH JURISDICTION SHALL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.</p><br><p>7. OUR PROPRIETARY RIGHTS<br>This Site and all its Contents are intended solely for personal, non-commercial use. Except as expressly provided, nothing within the Site shall be construed as conferring any license under our or any third party's intellectual property rights, whether by estoppel, implication, waiver, or otherwise. Without limiting the generality of the foregoing, you acknowledge and agree that all content available through and used to operate the Site and its services is protected by copyright, trademark, patent, or other proprietary rights. You agree not to: (a) modify, alter, or deface any of the trademarks, service marks, trade dress (collectively &quot;Trademarks&quot;) or other intellectual property made available by us in connection with the Site; (b) hold yourself out as in any way sponsored by, affiliated with, or endorsed by us, or any of our affiliates or service providers; (c) use any of the Trademarks or other content accessible through the Site for any purpose other than the purpose for which we have made it available to you; (d) defame or disparage us, our Trademarks, or any aspect of the Site; and (e) adapt, translate, modify, decompile, disassemble, or reverse engineer the Site or any software or programs used in connection with it or its products and services.</p><br><p>The framing, mirroring, scraping or data mining of the Site or any of its content in any form and by any method is expressly prohibited.</p><br><p>8. INDEMNITY<br>By using the Site web sites you agree to indemnify us and affiliated entities (collectively &quot;Indemnities&quot;) and hold them harmless from any and all claims and expenses, including (without limitation) attorney's fees, arising from your use of the Site web sites, your use of the Products and Services, or your submission of ideas and/or related materials to us or from any person's use of any ID, membership or password you maintain with any portion of the Site, regardless of whether such use is authorized by you.</p><br><p>9. COPYRIGHT AND TRADEMARK NOTICE<br>Except our generated dummy copy, which is free to use for private and commercial use, all other text is copyrighted. generator.lorem-ipsum.info &copy; 2013, all rights reserved</p><br><p>10. INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS<br>It is our policy to respond expeditiously to claims of intellectual property infringement. We will promptly process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (&quot;DMCA&quot;) and other applicable intellectual property laws. Notices of claimed infringement should be directed to:</p><br><p>generator.lorem-ipsum.info</p><p>126 Electricov St.</p><p>Kiev, Kiev 04176</p><br><p>contact@lorem-ipsum.info</p><p>11. PLACE OF PERFORMANCE<br>This Site is controlled, operated and administered by us from our office in Kiev, Ukraine. We make no representation that materials at this site are appropriate or available for use at other locations outside of the Ukraine and access to them from territories where their contents are illegal is prohibited. If you access this Site from a location outside of the Ukraine, you are responsible for compliance with all local laws.</p><br><p>12. GENERAL<br>A. If any provision of these Terms and Conditions is held to be invalid or unenforceable, the provision shall be removed (or interpreted, if possible, in a manner as to be enforceable), and the remaining provisions shall be enforced. Headings are for reference purposes only and in no way define, limit, construe or describe the scope or extent of such section. Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. These Terms and Conditions set forth the entire understanding and agreement between us with respect to the subject matter contained herein and supersede any other agreement, proposals and communications, written or oral, between our representatives and you with respect to the subject matter hereof, including any terms and conditions on any of customer's documents or purchase orders.</p><br><p>B. No Joint Venture, No Derogation of Rights. You agree that no joint venture, partnership, employment, or agency relationship exists between you and us as a result of these Terms and Conditions or your use of the Site. Our performance of these Terms and Conditions is subject to existing laws and legal process, and nothing contained herein is in derogation of our right to comply with governmental, court and law enforcement requests or requirements relating to your use of the Site or information provided to or gathered by us with respect to such use.<br><br>contraluz.</p>"
+}
