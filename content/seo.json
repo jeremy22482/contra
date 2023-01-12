@@ -1,0 +1,25 @@
+{
+  "title": "Contraluz",
+  "titleTemplate": "Contraluz",
+  "description": "Mezcal Contraluz",
+  "openGraph": {
+    "title": "Contraluz",
+    "description": "Mezcal Contraluz",
+    "type": "website",
+    "locale": "en_IE",
+    "site_name": "Contraluz",
+    "images": [
+      {
+        "url": "/images/share.png",
+        "width": 800,
+        "height": 600,
+        "alt": "Contraluz"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@Contraluz",
+    "site": "@Contraluz",
+    "cardType": "summary_large_image"
+  }
+}
